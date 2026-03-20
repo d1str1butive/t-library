@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FNam7nKX92w=",
+  "success": true,
+  "projectFilePath": "/run/media/nikita/cusya/t-library/t-library/t-library.csproj",
+  "expectedPackageFiles": [
+    "/home/nikita/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

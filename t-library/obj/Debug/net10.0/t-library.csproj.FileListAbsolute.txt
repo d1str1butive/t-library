@@ -1,0 +1,14 @@
+/run/media/nikita/cusya/t-library/t-library/bin/Debug/net10.0/t-library
+/run/media/nikita/cusya/t-library/t-library/bin/Debug/net10.0/t-library.deps.json
+/run/media/nikita/cusya/t-library/t-library/bin/Debug/net10.0/t-library.runtimeconfig.json
+/run/media/nikita/cusya/t-library/t-library/bin/Debug/net10.0/t-library.dll
+/run/media/nikita/cusya/t-library/t-library/bin/Debug/net10.0/t-library.pdb
+/run/media/nikita/cusya/t-library/t-library/obj/Debug/net10.0/t-library.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/nikita/cusya/t-library/t-library/obj/Debug/net10.0/t-library.AssemblyInfoInputs.cache
+/run/media/nikita/cusya/t-library/t-library/obj/Debug/net10.0/t-library.AssemblyInfo.cs
+/run/media/nikita/cusya/t-library/t-library/obj/Debug/net10.0/t-library.csproj.CoreCompileInputs.cache
+/run/media/nikita/cusya/t-library/t-library/obj/Debug/net10.0/t-library.dll
+/run/media/nikita/cusya/t-library/t-library/obj/Debug/net10.0/refint/t-library.dll
+/run/media/nikita/cusya/t-library/t-library/obj/Debug/net10.0/t-library.pdb
+/run/media/nikita/cusya/t-library/t-library/obj/Debug/net10.0/t-library.genruntimeconfig.cache
+/run/media/nikita/cusya/t-library/t-library/obj/Debug/net10.0/ref/t-library.dll
